@@ -1,3 +1,24 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="./logo.png" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Alsat IPG Android</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/AlsatPardakht/AlsatIPGAndroid.svg)](https://github.com/AlsatPardakht/AlsatIPGAndroid/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/AlsatPardakht/AlsatIPGAndroid.svg)](https://github.com/AlsatPardakht/AlsatIPGAndroid/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<p align="center">با استفاده از این کتابخانه میتوانید اپلیکیشنتون رو به شبکه پرداخت آل‌سات پرداخت وصل کنید و به راحتی محصولات خودتون رو داخل اپلیکیشن بفروشید
+    <br> 
+</p>
 # alsatpardakht magento payment module
 
 
