@@ -1,4 +1,4 @@
-# magento
+# alsatpardakht magento payment module
 
 
 ## ماژول درگاه پرداخت آلسات پرداخت برای سیستم های مجنتو
